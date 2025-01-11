@@ -55,8 +55,8 @@
 }
 .Box11
 {
-    height: 44px;
-    width: 44px;
+    height: 62px;
+    width: 62px;
     margin: 25px;
     
 }
@@ -84,8 +84,8 @@
 }
 .Box12
 {
-    height: 44px;
-    width: 44px;
+    height: 62px;
+    width: 62px;
     margin: 25px;
     
 }
@@ -114,8 +114,8 @@
 }
 .Box13
 {
-    height: 44px;
-    width: 44px;
+    height: 62px;
+    width: 62px;
     margin: 25px;
     
 }
@@ -143,8 +143,8 @@
 }
 .Box14
 {
-    height: 44px;
-    width: 44px;
+    height: 62px;
+    width: 62px;
     margin: 25px;
     
 }
@@ -174,28 +174,27 @@
     justify-content: left;
     margin: 10px 10px 10px 10px;
     padding: 0px 0px 0px 0px;
+    margin-bottom: 50px;
 }
 
- .pillar-box-vision
- {
+.pillar-box-vision
+{
     display: flex;
     flex-direction: row;
     justify-items: space-between;
     justify-content: space-between;
-    
- }
+}
 .Box1V
 {
-height: 244px;
-width: 302px;
-background-color: white;
-border: 1px solid gray;
-border-radius: 24px;
+height: 326px;
+width: 410.67px;
+background-color: rgba(213,226,245,255 );
+border-radius: 10px;
 }
 .Box11V
 {
-height: 44px;
-width: 44px;
+height: 62px;
+width: 62px;
 margin: 25px;
 
 }
@@ -213,18 +212,27 @@ margin: 10px 10px 10px 10px;
 padding: 0px 0px 0px 0px;
 font-size: 20px;
 }
+.learn-more-1
+{
+    margin: 10px 10px 10px 10px; 
+    padding : 10px 15px;
+    background-color:rgba(97, 139, 230,255); 
+    border-radius: 10px;  
+    font-weight: bold;
+    color: white;
+    border-style: none;
+}
 .Box2V
 {
-height: 244px;
-width: 302px;
-background-color: white;
-border: 1px solid gray;
-border-radius: 24px;
+height: 326px;
+width: 410.67px;
+background-color: rgba(199,227,213,255);
+border-radius: 10px;
 }
 .Box12V
 {
-height: 44px;
-width: 44px;
+height: 62px;
+width: 62px;
 margin: 25px;
 
 }
@@ -242,19 +250,27 @@ margin: 10px 10px 10px 10px;
 padding: 0px 0px 0px 0px;
 font-size: 20px;
 }
-
+.learn-more-2
+{
+    margin: 10px 10px 10px 10px;
+    padding : 10px 15px;
+    background-color:rgba(18,142,86,255); 
+    border-radius: 10px;  
+    font-weight: bold;
+    color: white;
+    border-style: none;
+}
 .Box3V
 {
-height: 244px;
-width: 302px;
-background-color: white;
-border: 1px solid gray;
+height: 326px;
+width: 410.67px;
+background-color: rgba(246,235,207,255);
 border-radius: 24px;
 }
 .Box13V
 {
-height: 44px;
-width: 44px;
+height: 62px;
+width: 62px;
 margin: 25px;
 
 }
@@ -271,4 +287,14 @@ font-weight: bold;
 margin: 10px 10px 10px 10px;
 padding: 0px 0px 0px 0px;
 font-size: 20px;
+}
+.learn-more-3
+{
+    margin: 10px 10px 10px 10px; 
+    padding : 10px 15px;
+    background-color:rgba(243,194,70,255); 
+    border-radius: 10px;  
+    font-weight: bold;
+    color: white;
+    border-style: none;
 }
