@@ -298,3 +298,24 @@ font-size: 20px;
     color: white;
     border-style: none;
 }
+.speech{
+    width: 1355px;
+    height: 120px;  
+    margin: 10px 10px 10px 10px;    
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+    background-color:rgb(230, 230, 246);
+
+}
+.speech-icon
+{
+    height: 64px;
+    width: 64px;
+    position: absolute;
+    display: flex;
+    justify-content: left;
+}
+.speech2{
+    margin : 10px 1px 10px 1px;
+    padding: 1px 1px 1px 1px;
+}
