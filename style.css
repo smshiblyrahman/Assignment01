@@ -33,8 +33,8 @@
  .pillar-section{
         display: flex;
         justify-content: space-between;
-        margin: 70px 0px 3px 0px;
-        padding: 0px;
+        margin: 70px 0px 30px 0px;
+        padding: 10px 10px 10px 10px;
         text-align: left;
  }
  .pillar-box
@@ -51,7 +51,28 @@
     width: 302px;
     background-color: white;
     border: 1px solid gray;
-    border-radius: 5px;
+    border-radius: 24px;
+}
+.Box11
+{
+    height: 44px;
+    width: 44px;
+    margin: 25px;
+    
+}
+.innovation{
+
+    display: flex;
+    justify-content: left;
+    margin: 10px 10px 10px 10px;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.innovation-para{
+    margin: 10px 10px 10px 10px;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
 }
 .Box2
 {
@@ -59,7 +80,7 @@
     width: 302px;
     background-color: white;
     border: 1px solid gray;
-    border-radius: 5px;
+    border-radius: 24px;
 }
 
 .Box3
@@ -68,7 +89,7 @@
     width: 302px;
     background-color: white;
     border: 1px solid gray;
-    border-radius: 5px;
+    border-radius: 24px;
 }
 
 .Box4
@@ -77,6 +98,6 @@
     width: 302px;
     background-color: white;
     border: 1px solid gray;
-    border-radius: 5px;
+    border-radius: 24px;
 }
 
