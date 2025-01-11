@@ -41,22 +41,22 @@
  {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-items: space-between;
+    justify-content: space-between;
+    
  }
 .Box1
 {
-    height: 50px;
-    width: 15%;
+    height: 244px;
+    width: 302px;
     background-color: white;
     border: 1px solid green;
     border-radius: 5px;
-    display: flex;
-    flex-direction: row; 
 }
 .Box2
 {
-    height: 50px;
-    width: 15%;
+    height: 244px;
+    width: 302px;
     background-color: white;
     border: 1px solid green;
     border-radius: 5px;
@@ -64,8 +64,8 @@
 
 .Box3
 {
-    height: 50px;
-    width: 15%;
+    height: 244px;
+    width: 302px;
     background-color: white;
     border: 1px solid green;
     border-radius: 5px;
@@ -73,8 +73,8 @@
 
 .Box4
 {
-    height: 50px;
-    width: 15%;
+    height: 244px;
+    width: 302px;
     background-color: white;
     border: 1px solid green;
     border-radius: 5px;
